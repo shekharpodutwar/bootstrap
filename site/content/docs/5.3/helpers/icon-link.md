@@ -71,7 +71,7 @@ Customize the color by overriding the `--bs-link-*` CSS variable:
 </a>
 {{< /example >}}
 
-### Sass
+### Sass variables
 
 Customize the icon link Sass variables to modify all icon link styles across your Bootstrap-powered project.
 

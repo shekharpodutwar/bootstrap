@@ -45,7 +45,7 @@ By default, there is no `--bs-focus-ring-x`, `--bs-focus-ring-y`, or `--bs-focus
 </a>
 {{< /example >}}
 
-### Sass
+### Sass variables
 
 Customize the focus ring Sass variables to modify all usage of the focus ring styles across your Bootstrap-powered project.
 
