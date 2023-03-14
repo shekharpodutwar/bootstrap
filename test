@@ -1,0 +1,29 @@
+<html>
+   
+<head>
+      <title>Open URL in New Tab </title>
+</head>
+   
+<body>
+ 
+     
+<p> Click the button to open
+          <b> geeksforgeeks.org </b>
+          in new tab
+      </p>
+ 
+ 
+    <button onclick="NewTab()">
+        Open Geeksforgeeks
+    </button>
+ 
+    <script>
+        function NewTab() {
+            window.open(
+            "https://www.geeksforgeeks.org", "_blank");
+        }
+    </script>
+ 
+</body>
+ 
+</html>
